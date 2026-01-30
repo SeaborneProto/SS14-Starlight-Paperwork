@@ -1,0 +1,56 @@
+# Prescription Form
+ [logo]            [cclogo]
+
+                          [head=3]NT-CC Consortium Services[/head]
+
+               [center][color=#1f75bb][italic][bold]   OFFICIAL CENTCOMM DOCUMENTATION[/bold][/italic][/color][/center]
+ ────────────────────────────────────────
+⠀⠀                           [bold]Prescription Form[/bold]
+ ────────────────────────────────────────
+ Date and Time: [form]
+ Document Compiler: [signature]
+
+ Chemist Authorizing Prescription: [signature]
+
+ Authorized Prescription User: [form]
+
+ ────────────────────────────────────────
+ [head=2]Section One[/head], Chemicals Prescribed.
+ ────────────────────────────────────────
+
+ Chemical Prescribed:
+
+ * [form]
+
+ * [form]
+
+ * [form]
+
+ Dosage Required:
+
+ * [form]
+
+ * [form]
+
+ * [form]
+
+ ────────────────────────────────────────
+[head=2]Section Two[/head], Refill Eligible.
+ ────────────────────────────────────────
+
+ This prescription is valid for refills between [form] and [form]. If it is not, skip Section Two
+
+ [check] This prescription is valid for refills.
+
+ * [form] is valid for refills at [form] and [form] time.
+
+ * [form] is valid for refills at [form] and [form] time.
+
+ * [form] is valid for refills at [form] and [form] time.
+
+ ────────────────────────────────────────
+
+ ⠀ [italic]This form is not legal unless it has been signed by the issuing chemist, or Chief Medical Officer.[/italic]
+
+ ────────────────────────────────────────
+ ⠀                      [italic]Place for Stamps and/or Signatures[/italic]
